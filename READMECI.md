@@ -8,7 +8,7 @@
 
 
 ## 1. Definición del proyecto Cipher
-El proyecto es una página web que ofrece una herramienta gratuita para cifrar y descifrar mensajes de texto utilizando el algoritmo de cifrado César. La página web cuenta con una descripción de la herramienta y sus usos, así como instrucciones sobre cómo utilizarla. También hay un botón de descarga para descargar la herramienta y una imagen que muestra cómo se vería la herramienta en un teléfono móvil. La herramienta permite ingresar un mensaje de texto y un número de desplazamiento para cifrar o descifrar el mensaje. El resultado se muestra en un cuadro de texto en la página web. El código fuente HTML de la página web se incluye en el proyecto.
+El proyecto es una página web que ofrece una herramienta gratuita para cifrar y descifrar mensajes de texto utilizando el algoritmo de cifrado César. La página web cuenta con una descripción de la herramienta y sus usos, así como instrucciones sobre cómo utilizarla. La herramienta permite ingresar un mensaje de texto y un número de desplazamiento para cifrar o descifrar el mensaje. El resultado se muestra en un cuadro de texto en la página web. El código fuente HTML de la página web se incluye en el proyecto.
 
 ## 2. Objetivos del proyecto 
   - Desarrollar una herramienta de cifrado de mensajes utilizando el cifrado César.
