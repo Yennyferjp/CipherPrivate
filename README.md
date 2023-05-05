@@ -3,9 +3,9 @@ Página para usar el método de Cifrado Cesar en un mensaje
 
 ## Índice
 
-* [1. Definición del proyecto Cipher](#1-definicion-proyecto)
+* [1. Definición del proyecto Cipher](#1-definicion-del-proyecto)
 * [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
-* [3. ¿Cómo se piensa en las usuarias?](#3-como-se-piensa-enlas-usuarias)
+* [3. ¿Cómo se piensa en las usuarias?](#3-como-se-piensa-en-las-usuarias)
 * [4. Proceso para la creación de la página web CipherPrivate](#4-proceso-para-la-creacion-de-la-página-web-chipherprivate)
 * [5. ¿Cómo resuelve el problema CipherPrivate?](#5-como-resuelve-el-problema-cipherprivate)
 
