@@ -37,7 +37,7 @@ Se empieza a codificar combinando diferentes lenguajes de programación, como HT
 * **Las funcionalidades específicas del código son:** 
 
 Obtener el mensaje y el desplazamiento introducidos por el usuario a través de los elementos de HTML con los ids "string" y "offset".
-  - Validar que el desplazamiento es un número entre 0 y 26 y mostrar una alerta si no cumple con esta condición.
+  - Validar que el desplazamiento es un número entre 0 y 26.
   - Crear un nuevo alfabeto cifrado rotando el alfabeto original el número de posiciones indicado por el desplazamiento.
   - Para cada letra del mensaje, buscar su posición en el alfabeto original y sustituirla por la letra correspondiente en el alfabeto cifrado. Si la letra no se encuentra en el alfabeto original (por ejemplo, un espacio), mantenerla sin cambios.
   - Devolver el mensaje cifrado en el elemento de HTML con el id "output" (en el caso de la función encode()) o el mensaje descifrado en el mismo elemento (en el caso de la función decode()).
